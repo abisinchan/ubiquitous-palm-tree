@@ -9,10 +9,17 @@ li {
     position:relative;
     margin-right: 15%;
 }
-ul {
+.contactbox {
+    text-align: right;
+    display: grid;
+}
+
+header {
     text-align: center;
 }
 
-header{
-    text-align: center;
+.text-right{
+    text-align: right;
 }
+
+
